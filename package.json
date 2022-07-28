@@ -2,9 +2,6 @@
   "name": "astur-try-out",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": "v16.16.0"
-  },
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
